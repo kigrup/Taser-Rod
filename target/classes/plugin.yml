@@ -1,0 +1,8 @@
+name: TaserRod
+main: com.kigro.cocraft.TaserRod.TaserRod
+version: 1.0
+description: Tase the shit out of them with that rod
+commands:
+  taser:
+    usage: /taser
+    description: Gives you a taser
